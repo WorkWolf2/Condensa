@@ -1,0 +1,7 @@
+name: Condensa
+version: '${version}'
+main: me.workwolf.condensa.Condensa
+api-version: '1.19'
+commands:
+  condensa:
+    description: condensa degli item in un unico blocco

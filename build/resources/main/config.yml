@@ -1,0 +1,15 @@
+############################
+### PLUGIN MADE BY WOLF ####
+############################
+
+item:
+  type: WHEAT # item da condensare
+  quantity: 9 # QUANTITà IN STACK DELL'ITEM DA CONDENSARE
+
+result:
+  type: HAY_BLOCK # BLOCCO RISULTATO DELLA CONDENSA
+  name: "&7CiAO" # NOME DEL BLOCCO CONDENSATO
+  lore:
+    - "&7Ciao"
+    - "&6Come stai?"
+
